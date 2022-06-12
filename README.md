@@ -1,9 +1,3 @@
-<style>
-  table {
-    margin: 0 auto;
-  }
-</style>
-
 ### Seja bem-vindo! :rocket:
 ---
 

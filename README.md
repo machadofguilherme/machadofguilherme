@@ -30,7 +30,7 @@ Minha jornada será árdua e muito difícil. O currículo é extenso e o aprendi
 Nesse repositório você encontrará exercícios e outras atividades relacionadas a contribuição com o Software Livre.
 Sou usuário Linux há 10 anos e um grande incentivador. Por mais projetos e uma cultura aberta. Um mundo onde o código não fica escondido por traz de grandes empresas e corporações. Por um código limpo e de qualidade que mantém e faz girar diversos serviços e aplicações de qualidade ao redor do mundo.
 
-### Aprendendo:
+## Aprendendo:
   <table>
     <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/></td>
@@ -41,6 +41,8 @@ Sou usuário Linux há 10 anos e um grande incentivador. Por mais projetos e uma
   </table>
 
 E muito mais!
+
+## Estatísticas!
 
 <div>
 <a href="https://github.com/machadofguilherme">

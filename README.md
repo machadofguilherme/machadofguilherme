@@ -8,17 +8,18 @@ Minha jornada será árdua e muito difícil. O currículo é extenso e o aprendi
 Sou usuário Linux há 10 anos e um grande incentivador. Por mais projetos e uma cultura aberta. Um mundo onde o código não fica escondido por traz de grandes empresas e corporações. Por um código limpo e de qualidade que mantém e faz girar diversos serviços e aplicações de qualidade ao redor do mundo.
 
 ### Aprendendo:
-
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></td>
-  </tr>
-</table>
+<center>
+  <table>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></td>
+    </tr>
+  </table>
+</center>
 
 E muito mais!
 

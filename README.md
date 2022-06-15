@@ -1,6 +1,18 @@
 # Seja bem-vindo! :rocket:
 
 <section>
+     <a href="https://www.linkedin.com/in/machadodev" 
+      target="_blank"
+  >
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+          target="_blank"
+    >
+  </a>
+      <a href = "mailto:machadofguilherme@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+          target="_blank"
+     >
+  </a>
     <a href="https://instagram.com/seu-usuário-instagram-aqui" 
        target="_blank"
     >
@@ -8,18 +20,6 @@
            target="_blank"
       >
   </a>
-  <a href = "mailto:machadofguilherme@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-          target="_blank"
-     >
-  </a>
-  <a href="https://www.linkedin.com/in/machadodev" 
-      target="_blank"
-  >
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-          target="_blank"
-    >
-  </a>   
 </section>
 
 --

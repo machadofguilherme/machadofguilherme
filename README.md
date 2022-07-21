@@ -1,63 +1,31 @@
-# Seja bem-vindo! :rocket:
+<h1 align="center"> Olá, eu sou o Guilherme!</h1>
+<br>
 
-<section>
-     <a href="https://www.linkedin.com/in/machadodev" 
-      target="_blank"
-  >
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-          target="_blank"
-    >
-  </a>
-      <a href = "mailto:machadofguilherme@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-          target="_blank"
-     >
-  </a>
-    <a href="https://instagram.com/seu-usuário-instagram-aqui" 
-       target="_blank"
-    >
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-           target="_blank"
-      >
-  </a>
+<section align="center">
+<a href="htps://www.linkedin.com/in/machadodev/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/machado.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </section>
+<hr>
+<section align="center" width="600px">
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><br>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+</section>
+<h1></h1><br>
 
---
-Sou Guilherme Machado. Um estudante em Desenvolvimento Web Full-stack na @Trybe!
-Minha jornada será árdua e muito difícil. O currículo é extenso e o aprendizado é ativo e constante. Nesse momento concluí dois blocos do curso e há muito caminho pela frente.
+## 🚀 Sobre mim
+Sou estudante em Desenvolvimento Web Full-stack na Trybe!
+Aqui você encontrará projetos pesssoais e projetos realizados na Trybe como parte do currículo, assim como, exercícios e outras atividades relacionadas a contribuição com o Software Livre. Sou usuário Linux há 10 anos e um grande incentivador.
 
---
-Nesse repositório você encontrará exercícios e outras atividades relacionadas a contribuição com o Software Livre.
-Sou usuário Linux há 10 anos e um grande incentivador. Por mais projetos e uma cultura aberta. Um mundo onde o código não fica escondido por traz de grandes empresas e corporações. Por um código limpo e de qualidade que mantém e faz girar diversos serviços e aplicações de qualidade ao redor do mundo.
-
-## Aprendendo:
-  <table>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></td>
-    </tr>
-    <tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="40" height="40"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain.svg" width="40" height="40"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/></td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></td>
-    </tr>
-  </table>
-
-## Estatísticas!
-
-<div>
+<section align="center">
 <a href="https://github.com/machadofguilherme">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machadofguilherme&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=machadofguilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+</section>

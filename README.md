@@ -20,8 +20,8 @@
 <h1></h1><br>
 
 ## 🚀 Sobre mim
-Chamo-me Guilherme e sou um Front-end Developer Jr.
-Amo tecnologia e desejo construir aplicações que ajudem as pessoas a atingirem os seus objetivos. Neste momento, estou estudando Backend na Trybe e o meu objetivo principal é me tornar um Fullstack Developer Jr.
+Chamo-me Guilherme e sou um Front-end Developer Jr.<br><br>
+Amo tecnologia e desejo construir aplicações que ajudem as pessoas a atingirem os seus objetivos. Neste momento, estou estudando Backend na Trybe e o meu objetivo principal é me tornar um Fullstack Developer Jr.<br><br>
 Aqui você encontrará projetos pesssoais e projetos realizados na Trybe como parte do currículo escolar, assim como, exercícios e outras atividades relacionadas a contribuição com o Software Livre. Sou usuário Linux há 10 anos e um grande incentivador.
 
 <section align="center">

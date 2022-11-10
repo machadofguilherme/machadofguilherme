@@ -3,7 +3,6 @@
 
 <section align="center">
 <a href="https://www.linkedin.com/in/machadodev/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/machado.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </section>
 <hr>
 <section align="center" width="600px">
@@ -21,8 +20,9 @@
 <h1></h1><br>
 
 ## 🚀 Sobre mim
-Sou estudante em Desenvolvimento Web Full-stack na Trybe!
-Aqui você encontrará projetos pesssoais e projetos realizados na Trybe como parte do currículo, assim como, exercícios e outras atividades relacionadas a contribuição com o Software Livre. Sou usuário Linux há 10 anos e um grande incentivador.
+Chamo-me Guilherme e sou um Front-end Developer Jr.
+Amo tecnologia e desejo construir aplicações que ajudem as pessoas a atingirem os seus objetivos. Neste momento, estou estudando Backend na Trybe e o meu objetivo principal é me tornar um Fullstack Developer Jr.
+Aqui você encontrará projetos pesssoais e projetos realizados na Trybe como parte do currículo escolar, assim como, exercícios e outras atividades relacionadas a contribuição com o Software Livre. Sou usuário Linux há 10 anos e um grande incentivador.
 
 <section align="center">
 <a href="https://github.com/machadofguilherme">

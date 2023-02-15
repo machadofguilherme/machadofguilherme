@@ -1,31 +1,41 @@
-<h1 align="center"> Olá, eu sou o Guilherme!</h1>
-<br>
+```js
+// Olá, eu sou o Guilherme! 👋
+const contactMe = () => {
+  console.log('Portfólio: https://github.com/machadofguilherme/projetos-trybe');
+  console.log('Linkedin: https://www.linkedin.com/in/machadodev');
+  console.log('Email: machadofguilherme@proton.me');
+};
 
-<section align="center">
-<a href="https://www.linkedin.com/in/machadodev/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</section>
-<hr>
-<section align="center" width="600px">
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><br>
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-</section>
-<h1></h1><br>
+hello-world: {
+  sobre-mim: [
+    'Sou Desenvolvedor Full-Stack Júnior. 🚀',
+    'Tenho como objetivo promover uma internet saudável para todos e acredito fielmente que o que impulsiona
+    os desenvolvedores até esse objetivo é o constante aprendizado. Conhecer algo novo a cada dia e superar
+    desafios é o que move a humanidade a atingir picos mais altos e a alavancar suas habilidades.',
+  ],
+}
 
-## 🚀 Sobre mim
-Chamo-me Guilherme e sou um Front-end Developer Jr.<br><br>
-Amo tecnologia e desejo construir aplicações que ajudem as pessoas a atingirem os seus objetivos. Neste momento, estou estudando Backend na Trybe e o meu objetivo principal é me tornar um Fullstack Developer Jr.<br><br>
-Aqui você encontrará projetos pesssoais e projetos realizados na Trybe como parte do currículo escolar, assim como, exercícios e outras atividades relacionadas a contribuição com o Software Livre. Sou usuário Linux há 10 anos e um grande incentivador.
+// 🛠 Habilidades
+habilidades: {
+  frontend: [
+    'HTML',
+    'CSS',
+    'JavaScript',
+    'React',
+    'Redux',
+    'Context API',
+    'NextJS',
+  ],
+  backend: [
+    'Docker',
+    'MySQL',
+    'NodeJS',
+    'Express',
+    'Arquitetura de Software',
+    'ORM - Sequelize',
+    'Programação Orientada a Objetos',
+  ],
+}
 
-<section align="center">
-<a href="https://github.com/machadofguilherme">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machadofguilherme&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=machadofguilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</section>
+contactMe();
+```

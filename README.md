@@ -34,6 +34,7 @@ habilidades: {
     'Arquitetura de Software',
     'ORM - Sequelize',
     'Programação Orientada a Objetos',
+    'MongoDB',
   ],
 }
 

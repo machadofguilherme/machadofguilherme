@@ -2,7 +2,7 @@
 // Olá, eu sou o Guilherme! 👋
 const contactMe = () => {
   console.log('Portfólio: https://github.com/machadofguilherme/projetos-trybe');
-  console.log('Linkedin: https://www.linkedin.com/in/machadodev');
+  console.log('Linkedin: https://www.linkedin.com/in/machadocode/');
   console.log('Email: machadofguilherme@proton.me');
 };
 

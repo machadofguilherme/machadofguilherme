@@ -9,9 +9,7 @@ const contactMe = () => {
 hello-world: {
   sobre-mim: [
     'Sou Desenvolvedor Full-Stack Júnior. 🚀',
-    'Tenho como objetivo promover uma internet saudável para todos e acredito fielmente que o que impulsiona
-    os desenvolvedores até esse objetivo é o constante aprendizado. Conhecer algo novo a cada dia e superar
-    desafios é o que move a humanidade a atingir picos mais altos e a alavancar suas habilidades.',
+    'Tenho amor pelo aprendizado e gosto de conhecer coisas novas. Quero conhecer você também!',
   ],
 }
 

@@ -8,7 +8,7 @@ const contactMe = () => {
 
 hello-world: {
   sobre-mim: [
-    'Sou Desenvolvedor Full-Stack Júnior. 🚀',
+    'Sou Full-Stack Developer Júnior. 🚀',
     'Tenho amor pelo aprendizado e gosto de conhecer coisas novas. Quero conhecer você também!',
   ],
 }

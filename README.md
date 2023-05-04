@@ -38,6 +38,7 @@ habilidades: {
     'ORM - Sequelize',
     'Programação Orientada a Objetos',
     'MongoDB',
+    'Python',
   ],
 }
 
